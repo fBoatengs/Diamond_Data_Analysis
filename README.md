@@ -1,5 +1,4 @@
-# Exploring the Interplay of Price, Cut, and Carat in Diamonds: A Data Analysis
-
+# Exploring the Interplay of Price, Cut, and Carat in Diamonds
 ## Abstract
 
 In the captivating world of diamonds, attributes like cut, carat, and price intricately define a gemstone's value. We delve into the nuanced relationship between these attributes using data analysis. Our exploration uncovers insights that illuminate how these elements converge to determine a diamond's allure and monetary value.
@@ -10,15 +9,7 @@ The allure of diamonds extends beyond their elegance; their value and symbolism 
 
 ## Dataset Description
 
-We dissect a comprehensive diamond dataset, focusing on the intricate dance between cut, carat, and price. This dataset captures the essence of diamonds, including their rarity and the renowned "Four Cs." Our focus remains on cut, carat, and price – attributes central to a diamond's identity.
-
-### Attributes of Interest
-
-Three pivotal attributes drive our analysis: cut, carat, and price. Cut, ranging from "Ideal" to "Fair," shapes a diamond's brilliance. Carat measures weight, affecting rarity. Price, reflecting a diamond's value, integrates various attributes.
-
-### Dataset Structure
-
-Our dataset holds a treasure trove of attributes. We explore cut, carat, and price alongside other dimensions. This exploration adds context to the intricate relationships within the dataset.
+We dissect a comprehensive diamond dataset, focusing on the intricate dance between cut, carat, and price. This dataset captures the essence of diamonds, including their rarity and the renowned "Four Cs." Our focus remains on cut, carat, and price – attributes central to a diamond's identity. Three pivotal attributes drive our analysis: cut, carat, and price. Cut, ranging from "Ideal" to "Fair," shapes a diamond's brilliance. Carat measures weight, affecting rarity. Price, reflecting a diamond's value, integrates various attributes.
 
 ## Data Analysis
 
